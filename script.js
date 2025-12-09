@@ -3,8 +3,8 @@ const btn = document.getElementById("captureBtn");
 const status = document.getElementById("status");
 
 // --- توکن و Chat ID ربات بله خودت را اینجا بگذار ---
-const BALE_TOKEN = "YOUR_BALE_BOT_TOKEN";
-const CHAT_ID = "YOUR_CHAT_ID";
+const BALE_TOKEN = "2086834694:UpTaAb1Y9FCL4GRvWL3S6VJAU0E_xD8JWKA";
+const CHAT_ID = "1180806059";
 
 // فعال کردن وبکم
 navigator.mediaDevices.getUserMedia({ video: true })
